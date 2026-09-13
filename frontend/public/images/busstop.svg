@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 71 191" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-740.394,-673.53)">
+        <g transform="matrix(1,0,0,1,-0.827807,-0.165935)">
+            <g transform="matrix(0.947631,0,0,0.927535,33.6544,36.2222)">
+                <ellipse cx="783.761" cy="723.323" rx="36.383" ry="35.322" style="fill:rgb(190,4,0);fill-opacity:0.72;stroke:rgb(57,57,57);stroke-width:1.43px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-0.827807,-0.165935)">
+            <g transform="matrix(1,0,0,1,7.37569,-12.5272)">
+                <path d="M775.668,754.942L775.668,866.631C775.668,868.077 774.495,869.251 773.049,869.251L767.809,869.251C766.363,869.251 765.19,868.077 765.19,866.631L765.19,754.942C765.19,753.496 766.363,752.322 767.809,752.322L773.049,752.322C774.495,752.322 775.668,753.496 775.668,754.942Z" style="fill:rgb(106,106,106);fill-opacity:0.51;stroke:rgb(57,57,57);stroke-width:1.34px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-0.827807,-0.165935)">
+            <g transform="matrix(1,0,0,1,0.322281,-0.689919)">
+                <path d="M802.588,858.8L802.588,862.451C802.588,863.459 801.77,864.276 800.763,864.276L755.529,864.276C754.521,864.276 753.703,863.459 753.703,862.451L753.703,858.8C753.703,857.793 754.521,856.975 755.529,856.975L800.763,856.975C801.77,856.975 802.588,857.793 802.588,858.8Z" style="fill:rgb(85,85,85);fill-opacity:0.51;stroke:rgb(57,57,57);stroke-width:1.34px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-0.827807,-0.165935)">
+            <g transform="matrix(1,0,0,1,-86.0845,-1.97174)">
+                <path d="M885.54,699.862L885.54,718.456C885.54,723.587 881.375,727.753 876.243,727.753L848.546,727.753C843.414,727.753 839.249,723.587 839.249,718.456L839.249,699.862C839.249,694.731 843.414,690.565 848.546,690.565L876.243,690.565C881.375,690.565 885.54,694.731 885.54,699.862Z" style="fill:rgb(255,249,223);stroke:rgb(57,57,57);stroke-width:1.34px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

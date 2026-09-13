@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Hina+Mincho&family=Kaisei+Tokumin&family=Kiwi+Maru&family=New+Tegomin&family=Potta+One&family=Yusei+Magic&display=swap');
+
+
+@import "tailwindcss";
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+@layer base{
+    button:not(.btn-reset){
+        @apply w-fit font-digital rounded-xl cursor-pointer  bg-amber-100  hover:bg-amber-200 p-5 transition-all shadow-sm;
+    }
+}
+
+@keyframes driveIn {
+  0% { transform: translateX(-100px); opacity: 0; }
+  100% { transform: translateX(0); opacity: 1; }
+}
+
+@theme{
+    --font-digital: "Press Start 2P", cursive;
+    --font-rampart: "Rampart One", cursive, sans-serif;
+    --font-potta: "Potta One", system-ui;
+    --font-kiwi: "Kiwi Maru", serif;
+    --font-hina: "Hina Mincho", serif;
+    --font-dot: "DotGothic16", sans-serif;
+    --font-yusei: "Yusei Magic", sans-serif;
+    --font-kaisei: "Kaisei Tokumin", serif;
+    --font-tegomin: "New Tegomin", serif;
+
+
+}
+

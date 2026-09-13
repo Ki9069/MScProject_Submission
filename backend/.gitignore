@@ -1,0 +1,10 @@
+venv/
+*.db
+
+# Ignore SQLite databases
+*.sqlite
+*.sqlite3
+
+.env
+venv/
+__pycache__/

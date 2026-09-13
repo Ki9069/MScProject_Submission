@@ -1,0 +1,39 @@
+{
+  "name": "cantoneseapp",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:a": "cp .env.a .env && vite",
+    "dev:b": "cp .env.b .env && vite",
+    "build": "vite build",
+    "build:a": "cp .env.a .env && vite build",
+    "build:b": "cp .env.b .env && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/react": "^2.2.10",
+    "@tailwindcss/vite": "^4.3.3",
+    "hanzi-writer": "^3.7.3",
+    "lucide-react": "^1.30.0",
+    "react": "^19.2.7",
+    "react-confirm-alert": "^3.0.6",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.3",
+    "autoprefixer": "^10.5.4",
+    "eslint": "^10.6.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.3",
+    "globals": "^17.7.0",
+    "postcss": "^8.5.23",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.1.1"
+  }
+}
